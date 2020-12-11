@@ -1,8 +1,10 @@
 # CMPT732Final_Project_Pair_Trading
 
 # 1st part： traditional statistical method
+# jupyter notobook with updated Anacaonda environment. packages are installed through Anaconada Navigator or Anaconda command with pip install
 # python 3.7
 # spark 3.0.1
+# needed package: pysaprk, pyfolio, statsmodels, pandas, numpy
 
 # single pair trading
 # dataset: 15stock.csv
