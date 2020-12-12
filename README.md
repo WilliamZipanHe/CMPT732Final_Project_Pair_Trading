@@ -2,9 +2,9 @@
 
 ## First part： Traditional Statistical Method
 ### Requirement
-jupyter notobook with updated Anacaonda environment. packages are installed through Anaconada Navigator or Anaconda command with pip install
-python 3.7
-spark 3.0.1
+I use jupyter notobook with updated Anacaonda environment in order to show result plots. All packages are installed through Anaconada Navigator or Anaconda command with pip install. 
+python version: 3.7.3
+spark version: 3.0.1
 needed package: pysaprk, pyfolio, statsmodels, pandas, numpy
 
 ### Single pair trading
