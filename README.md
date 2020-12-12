@@ -38,3 +38,8 @@ See requirement.txt for all the package to install
 python3 RunningScript.py
 ```
 #### 4. Wait for almost 20 min to see the result
+#jupyter backtesing file need to be run at environment under he first part
+#backtesting file
+backtesting_RL.ipynb
+#backtesting data 
+test1.csv
