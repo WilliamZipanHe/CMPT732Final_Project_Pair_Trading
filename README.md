@@ -11,10 +11,11 @@ needed package: pysaprk, pyfolio, statsmodels, pandas, numpy
 #### DataSource
 15stock.csv
 #### Strategy
-pair_trading_stat_coint1-stock15.ipynb
+pair_trading_stat_coint1-stock15-final.ipynb
 #### Backtesting
 pair_trading_becktesting.ipynb
-backtesting dataset: retcsv.csv
+#### backtesting dataset
+retcsv.csv
 
 ### Multiple pairs trading
 #### DataSource
@@ -23,6 +24,7 @@ backtesting dataset: retcsv.csv
 pair_trading_stat_coint1-stock15_multiple.ipynb
 #### Backtesting
 pair_trading_becktesting_multiple.ipynb
+#### backtesting dataset
 retcsv_{item}_{item}.csv -- {item} can varies from a to k
 
 ## Second part： Pair Trading with Reinforcement Learning
