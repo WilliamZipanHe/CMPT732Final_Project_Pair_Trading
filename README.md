@@ -8,20 +8,20 @@ spark 3.0.1
 needed package: pysaprk, pyfolio, statsmodels, pandas, numpy
 
 ### single pair trading
-####DataSource
+#### DataSource
 15stock.csv
-####Strategy
+#### Strategy
 pair_trading_stat_coint1-stock15.ipynb
-####Backtesting
+#### Backtesting
 pair_trading_becktesting.ipynb
 backtesting dataset: retcsv.csv
 
 ## multiple pairs trading
-####DataSource
+#### DataSource
 15stock.csv
-####Ensemble strategy 
+#### Ensemble strategy 
 pair_trading_stat_coint1-stock15_multiple.ipynb
-####Backtesting
+#### Backtesting
 pair_trading_becktesting_multiple.ipynb
 retcsv_{item}_{item}.csv -- {item} can varies from a to k
 
