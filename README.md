@@ -26,4 +26,13 @@ pair_trading_becktesting_multiple.ipynb
 retcsv_{item}_{item}.csv -- {item} can varies from a to k
 
 ## Second part： Pair Trading with Reinforcement Learning
-
+### Requirement
+See requirement.txt for all the package to install
+### Implementation
+#### Create virtual environment 
+#### After all the package is installed
+#### Run the python code:
+```
+python3 RunningScript.py
+```
+#### Wait for almost 20 min to see the result
