@@ -7,7 +7,7 @@ python 3.7
 spark 3.0.1
 needed package: pysaprk, pyfolio, statsmodels, pandas, numpy
 
-### single pair trading
+### Single pair trading
 #### DataSource
 15stock.csv
 #### Strategy
@@ -16,7 +16,7 @@ pair_trading_stat_coint1-stock15.ipynb
 pair_trading_becktesting.ipynb
 backtesting dataset: retcsv.csv
 
-## multiple pairs trading
+### Multiple pairs trading
 #### DataSource
 15stock.csv
 #### Ensemble strategy 
