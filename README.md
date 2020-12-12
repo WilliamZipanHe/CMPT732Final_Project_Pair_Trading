@@ -29,10 +29,10 @@ retcsv_{item}_{item}.csv -- {item} can varies from a to k
 ### Requirement
 See requirement.txt for all the package to install
 ### Implementation
-#### Create virtual environment 
-#### After all the package is installed
-#### Run the python code:
+#### 1. Create virtual environment 
+#### 2. After all the package is installed
+#### 3. Run the python code:
 ```
 python3 RunningScript.py
 ```
-#### Wait for almost 20 min to see the result
+#### 4. Wait for almost 20 min to see the result
